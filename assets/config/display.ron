@@ -1,0 +1,4 @@
+(
+    title: "Suparimoto A4!",
+    dimensions: Some((800, 800))
+)
